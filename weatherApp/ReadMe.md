@@ -6,7 +6,7 @@ Users can search weather by **city name** or **ZIP code**, view temperature, hum
 ---
 
 ## Live Site
-(Add your Netlify link here)
+https://ahmed-weather-dashboard.netlify.app/
 
 ---
 
