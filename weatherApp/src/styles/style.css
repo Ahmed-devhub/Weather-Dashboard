@@ -1,0 +1,46 @@
+body{
+    text-align: left;
+    background-image: url("https://img.freepik.com/premium-vector/sky-clouds-design-with-flat-cartoon-poster-flyers-postcards-web-banners_771576-58.jpg");
+    background-size: cover
+}
+.searchBar{
+    text-align: center;
+    margin-top: 50px
+}
+.searchBar button{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: #c8c8c8ff
+}
+.searchBar input{
+    border-radius: 5px
+}
+.searchBar input:hover{
+    background-color: #eeeeee;
+}
+.showWeather{
+    background-color: aliceblue;
+    opacity: 0.45;
+    text-align: center;
+    width: 50%;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 15px;
+}
+body.morning{
+    background-image:url("https://www.igp.com/blog/wp-content/uploads/2022/11/good-morning-sunrise-image.jpg");
+    background-size: cover
+}
+body.afternoon{
+    background-image:url("https://i0.wp.com/pediaa.com/wp-content/uploads/2021/09/Afternoon.jpg?w=640&ssl=1");
+    background-size: cover
+}
+body.evening{
+    background-image:url("https://wallpaperaccess.com/full/1441893.jpg");
+    background-size: cover
+}
+body.night{
+    background-image:url("https://4kwallpapers.com/images/wallpapers/night-sky-colorful-2560x1440-12510.jpg");
+    background-size: cover
+}
